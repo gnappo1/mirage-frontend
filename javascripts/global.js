@@ -1,4 +1,4 @@
-const baseUrl = "https://mirage-backend-test.herokuapp.com/"
+const baseUrl = "https://mirage-backend-test.herokuapp.com"
 const buttonDiv = () => document.getElementById("button-control")
 const buttonShow = () => document.getElementById("button-show")
 const buttonNew = () => document.getElementById("button-new")
